@@ -7,7 +7,7 @@ import Navbar from './Components/NavBar'
 import JobDecription from './Components/JobDecription'
 import NewJob from './Components/NewJob'
 import './main.css'
-import './bootstrap.min.css'
+import 'bootstrap/dist/css/bootstrap.min.css';
 import Profile from './Components/Profile'
 import Footer from './Components/Footer'
 const handleShowMessage = (message , bad) => {
